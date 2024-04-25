@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "0365",
+      "firstName": "Alyssa",
+      "lastName": "Daugherty",
+      "age": "Quaerat aperiam earu",
+      "city": "Et non id voluptate ",
+      "country": "Dignissimos aut dolo",
+      "email": "nidobeh@mailinator.com",
+      "phone": "+1 (316) 217-7936",
+      "gender": "Architecto consectet",
+      "occupation": "Laudantium omnis qu",
+      "education": "Culpa tempora ad con",
+      "hobbies": "Sed impedit officia",
+      "notes": "Ea culpa dignissimos",
+      "username": "jykoto"
+    },
+    {
+      "id": "8caf",
+      "firstName": "Gage",
+      "lastName": "Foley",
+      "age": "Sint irure dolorem c",
+      "city": "Voluptas doloremque ",
+      "country": "Aut officia vitae ex",
+      "email": "digawif@mailinator.com",
+      "phone": "+1 (844) 687-3903",
+      "gender": "Aliquip dolor sunt p",
+      "occupation": "Ipsum ea labore fugi",
+      "education": "Provident ipsa nul",
+      "hobbies": "Quo est dicta minima",
+      "notes": "Repellendus Labore ",
+      "username": "metuwasu"
+    },
+    {
+      "id": "c11e",
+      "firstName": "Jennifer",
+      "lastName": "Gonzalez",
+      "age": "Unde in debitis volu",
+      "city": "Adipisci expedita se",
+      "country": "Maiores excepteur ve",
+      "email": "zepy@mailinator.com",
+      "phone": "+1 (165) 229-5141",
+      "gender": "Sapiente voluptatum ",
+      "occupation": "Dolorem voluptate Na",
+      "education": "Lorem et porro sed s",
+      "hobbies": "Reiciendis ex sit q",
+      "notes": "Est cumque ad pariat",
+      "username": "pozupes"
+    }
+  ]
+}
